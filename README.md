@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/electraVee/Leetcode-Exercises/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0189-rotate-array) |
+| [0932-monotonic-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
