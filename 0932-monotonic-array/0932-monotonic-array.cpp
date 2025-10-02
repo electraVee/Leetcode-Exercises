@@ -6,12 +6,11 @@ public:
         for(int i = 1; i < nums.size(); i++){
 
             if(nums[i] > nums[i - 1])
-                decreasing = false;  // desactiva decreciente
+                decreasing = false; 
 
             if(nums[i] < nums[i - 1])
-                increasing = false; //desactiva creciente
+                increasing = false;
         }
-
-        return increasing || decreasing; // si alguna sigue activa es true
+        return increasing || decreasing; 
     }
 };
