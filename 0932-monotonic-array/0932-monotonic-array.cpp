@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
         bool increasing = true, decreasing = true; //banderines
+        
         for(int i = 1; i < nums.size(); i++){
 
             if(nums[i] > nums[i - 1])
