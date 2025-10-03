@@ -5,7 +5,7 @@ public:
        int n = nums.size();
 
        for(int i : nums)
-       summa+= i;
+           summa+= i;
 
        return (n*(n+1))/2 - summa; // fórmula de sumatoria n * (n + 1) / 2
 
