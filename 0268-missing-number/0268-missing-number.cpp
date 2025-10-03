@@ -7,7 +7,7 @@ public:
        for(int i : nums)
            summa+= i;
 
-       return (n*(n+1))/2 - summa; // fórmula de sumatoria n * (n + 1) / 2
+       return (n * (n + 1))/2 - summa; // fórmula de sumatoria n * (n + 1) / 2
 
     }
 };
