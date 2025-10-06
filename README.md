@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/electraVee/Leetcode-Exercises/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/electraVee/Leetcode-Exercises/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/electraVee/Leetcode-Exercises/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/electraVee/Leetcode-Exercises/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
