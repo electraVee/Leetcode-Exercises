@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/electraVee/Leetcode-Exercises/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/electraVee/Leetcode-Exercises/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
