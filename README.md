@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/electraVee/Leetcode-Exercises/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/electraVee/Leetcode-Exercises/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/electraVee/Leetcode-Exercises/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/electraVee/Leetcode-Exercises/tree/master/0231-power-of-two) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/electraVee/Leetcode-Exercises/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
