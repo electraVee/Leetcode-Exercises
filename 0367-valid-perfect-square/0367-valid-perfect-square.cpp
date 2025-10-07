@@ -4,7 +4,7 @@ public:
         if(num == 1)
             return num;
 
-        for(long int i = 1; i <= num/2; i++){
+        for(long int i = 2; i <= num/2; i++){
 
             if(num == i * i)
                 return true;
