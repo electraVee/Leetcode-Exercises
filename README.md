@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/electraVee/Leetcode-Exercises/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/electraVee/Leetcode-Exercises/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/electraVee/Leetcode-Exercises/tree/master/0066-plus-one) |
