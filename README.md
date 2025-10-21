@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0932-monotonic-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/1013-fibonacci-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
