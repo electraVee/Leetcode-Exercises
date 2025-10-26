@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/electraVee/Leetcode-Exercises/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/electraVee/Leetcode-Exercises/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/electraVee/Leetcode-Exercises/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/electraVee/Leetcode-Exercises/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/electraVee/Leetcode-Exercises/tree/master/0742-to-lower-case) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/electraVee/Leetcode-Exercises/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/electraVee/Leetcode-Exercises/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/electraVee/Leetcode-Exercises/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -133,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/electraVee/Leetcode-Exercises/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
