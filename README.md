@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/electraVee/Leetcode-Exercises/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/electraVee/Leetcode-Exercises/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/electraVee/Leetcode-Exercises/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
 | [0932-monotonic-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0932-monotonic-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/electraVee/Leetcode-Exercises/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/electraVee/Leetcode-Exercises/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/electraVee/Leetcode-Exercises/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/electraVee/Leetcode-Exercises/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/electraVee/Leetcode-Exercises/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/electraVee/Leetcode-Exercises/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/electraVee/Leetcode-Exercises/tree/master/0268-missing-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/electraVee/Leetcode-Exercises/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/electraVee/Leetcode-Exercises/tree/master/0258-add-digits) |
 ## Matrix
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/electraVee/Leetcode-Exercises/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/electraVee/Leetcode-Exercises/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
